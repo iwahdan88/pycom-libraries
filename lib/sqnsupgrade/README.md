@@ -42,7 +42,9 @@ If you are updating the Sequans firmware on your module for the first time, plea
 Similar upgrade packages are available for the NB-IoT firmwares. 
 
 {% hint style="danger" %}
+
 When using differential upgrade packages (ex: upgdiff_XXXX-to-XXXX.dup) you **CANNOT** use updater.elf file
+
 {% endhint %}
 
 ## Via SD card
